@@ -1,0 +1,14 @@
+n=20
+contador=1
+while(contador<=n){        
+    if(contador%3==0 and contador%5==0){
+        print("fizzbuzz");
+    } elseif (contador%3==0){
+        print("fizz");
+    } elseif (contador%5==0){
+        print("buzz");
+    } else {
+        print(n);
+    }           
+    contador = contador + 1;
+}

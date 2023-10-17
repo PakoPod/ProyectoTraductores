@@ -1,0 +1,17 @@
+PROGRAMA=1
+PRINT=2
+VAR=3
+IGUAL=4
+PUNTO_Y_COMA=5
+ABRIR_LLAVES=6
+CERRAR_LLAVES=7
+ID=8
+NUMERO=9
+ESPACIO=10
+'programa'=1
+'print'=2
+'var'=3
+'='=4
+';'=5
+'{'=6
+'}'=7

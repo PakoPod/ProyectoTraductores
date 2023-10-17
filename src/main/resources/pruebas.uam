@@ -1,0 +1,7 @@
+n=10;
+m=n;
+print(m);
+
+if(true){
+    print("verdadero");
+}
